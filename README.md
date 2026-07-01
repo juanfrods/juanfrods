@@ -79,8 +79,22 @@ Aplicación web desarrollada utilizando HTML como parte del aprendizaje en desar
 
 ---
 
+# 🐍 Contribuciones
 
-<p align="left">
+<p align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanfrods/juanfrods/output/github-contribution-grid-snake-dark.svg">
+  <img alt="Snake Animation" src="https://raw.githubusercontent.com/juanfrods/juanfrods/output/github-contribution-grid-snake.svg">
+</picture>
+
+</p>
+
+<p align="center">
+  <i>"Siempre aprendiendo, siempre construyendo."</i> 🚀
+</p>
+
+<p align="center">
   <a href="mailto:juan.felipe.rodriguezs09@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
