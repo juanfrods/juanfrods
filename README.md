@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.png" alt="Banner de Felipe" width="100%" />
-</p>
 <h1 align="center">Hola 👋, soy Felipe Rodriguez</h1>
 <h3 align="center">Desarrollador de Software | Java | Spring Boot | PostgreSQL</h3>
 
