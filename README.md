@@ -38,10 +38,11 @@ Estas son algunas de las tecnologías y herramientas con las que he trabajado y 
 ### 📊 Business Intelligence, ETL & Inteligencia Artificial
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Make.com-6E3FF3?style=for-the-badge&logo=make&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion_API-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-101216?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+  <img src="https://cdn.simpleicons.org/make/6E3FF3" width="48" height="48" alt="Make" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="48" height="48" alt="Google Gemini" />
+  <img src="https://skillicons.dev/icons?i=notion" />
 </p>
 
 ### 🧰 Herramientas de Desarrollo
@@ -95,12 +96,14 @@ Juego desarrollado en Java aplicando lógica de programación estructurada, orie
 # 🐍 Contribuciones
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanfrods/juanfrods/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/juanfrods/juanfrods/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juanfrods/juanfrods/output/github-contribution-grid-snake-dark.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/juanfrods/juanfrods/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  <i>"Siempre aprendiendo, siempre construyendo."</i> 🚀
 </p>
 
 <p align="center">
